@@ -6,7 +6,7 @@ div{
    height:400px;
    width:700px;
    position:relative;
-   justify-content:center;
+   left:50rem;
    display: block;
    text-align : center;
 }
