@@ -5,7 +5,7 @@ div{
 .image-container{
    height:400px;
    width:700px;
-   position:absolute;
+   position:relative;
    display: block;
    text-align: center;
 }
