@@ -1,4 +1,7 @@
-
+div{
+   text-align: center;
+   display: block;
+}
 .image-container{
    height:400px;
    width:700px;
