@@ -5,8 +5,9 @@ div{
 .image-container{
    height:400px;
    width:700px;
-   position:relative;
+   position:absolute;
    display: block;
+   text-align: center;
 }
 .image-container img{
    width:100%;
