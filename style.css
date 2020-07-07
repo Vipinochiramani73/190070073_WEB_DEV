@@ -1,8 +1,9 @@
 
 .image-container{
-   height:500px;
-   width:800px;
+   height:400px;
+   width:700px;
    position:relative;
+   justify-content:center;
 }
 .image-container img{
    width:100%;
